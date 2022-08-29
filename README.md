@@ -1,4 +1,4 @@
-# -AOI Defect Classification（自動光學檢查(AOI)瑕疵分類）-
+# -AOI Defect Classification-（自動光學檢查(AOI)瑕疵分類）
 ## 1. Introduction
 ### 1.1 Motivation
 為了期末報告前往 AIdea 平台尋找題目，討論後我們在練習場上選擇了工研院提供的「AOI 瑕疵分類」題目，希望能通過 AOI 影像資料進行瑕疵分類，學習影像分析。
